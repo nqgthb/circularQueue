@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477316070 source:e:\workspace\queue\main.cpp
+	"queue.h"
+	"linkNode.h"
+	<cstdio>
+
+1477313369 e:\workspace\queue\queue.h
+	"linkNode.h"
+	<iostream>
+
+1477309853 e:\workspace\queue\linknode.h
+
+1477310293 source:e:\workspace\queue\queue.cpp
+	"queue.h"
+	"linkNode.h"
+	<iostream>
+
+1477316218 source:e:\workspace\queue\cirquetest.cpp
+	"circularQueue.h"
+
+1477316174 e:\workspace\queue\circularqueue.h
+	"linkNode.h"
+	<iostream>
+
